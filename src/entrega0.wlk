@@ -1,5 +1,5 @@
 object grupo {
 	method integrantes() {
-		return "carlos"
+		return "Carlos, Nicolas"
 	}
 }
